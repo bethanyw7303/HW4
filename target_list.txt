@@ -1,0 +1,14 @@
+Target NGC 1068 with J2000 coordinates (RA, DEC): ('02 42 40.7091', '-00 00 47.859'). 
+
+Target M45 with J2000 coordinates (RA, DEC): ('03 46 24.2', '+24 06 50'). 
+
+Target 3C 273 with J2000 coordinates (RA, DEC): ('12 29 06.6998', '+02 03 08.597'). 
+
+Target HD 189733 with J2000 coordinates (RA, DEC): ('20 00 43.7129', '+22 42 39.073'). 
+
+Target AU Mic with J2000 coordinates (RA, DEC): ('20 45 09.5324', '-31 20 27.237'). 
+
+Target M2 with J2000 coordinates (RA, DEC): ('21 33 27.02', '-00 49 23.7'). 
+
+Target TRAPPIST-1 with J2000 coordinates (RA, DEC): ('23 06 29.3684', '-05 02 29.037'). 
+
